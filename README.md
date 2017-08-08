@@ -1,10 +1,10 @@
 # kyakin - Online Furniture Ordering System
 
-##Description
+## Description
 This online web application was developed using php for the course ITS332 - Information Systems Developement. This is an e-commerce web application that is able to allow the user to select and checkout items, order the items, and lastly the system will generate an invoice based on the purchase made.
 
 
-##Manual
+## Manual
  
 
 MAIN MENU
